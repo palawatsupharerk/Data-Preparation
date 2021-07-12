@@ -1,5 +1,5 @@
 # Data-Preparation
-### How to integrate GitHub with SAS Studio 5.2 (assuming no GitHub account is created)
+### How to integrate GitHub with SAS Studio 5.2 (assuming no GitHub account is created before)
 1. Sign up GitHub at https://github.com
 2. Create repository on Github
 3. Download Git Bash to install Git Bash on local computer from https://gitwindows.org
