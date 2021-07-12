@@ -7,3 +7,6 @@
 5. Create SSH key and adding to ssh-agent to obtain SSH Private Key file and Public Key file 
 6. Add a new SSH key to your GitHub
 7. Configure SAS Studio to recognize GitHub by selecting Options > Manage Git Connections
+
+![image](https://user-images.githubusercontent.com/23268955/125215923-b251c680-e28a-11eb-846d-77b1c133e787.png)
+
