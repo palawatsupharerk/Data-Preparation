@@ -11,6 +11,8 @@
 (Profile Name must be the same name as GitHub)
 ![image](https://user-images.githubusercontent.com/23268955/125215923-b251c680-e28a-11eb-846d-77b1c133e787.png)
 
+![image](https://user-images.githubusercontent.com/23268955/125217042-b92e0880-e28d-11eb-9c31-af301c0f9b36.png)
+
 Click repository > Click + to add repository
 
 (Repository Name must be the same as Github)
